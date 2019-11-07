@@ -14,26 +14,26 @@ Github：https://github.com/zhangxiaohuan8/ruanjiangongcheng
 项目成员
 -
 
-候瑞琪（项目经理）
+* 候瑞琪（项目经理）
 
-Email：971469259@qq.com
+  * Email：971469259@qq.com
 
-Github：https://github.com/houruiqi
+  * Github：https://github.com/houruiqi
 
-王心彤（开发工程师）
+* 王心彤（开发工程师）
 
-Email：815400083@qq.com
+  * Email：815400083@qq.com
 
-Github：https://github.com/WangXintong123
+  * Github：https://github.com/WangXintong123
 
-张晓焕（UI设计师）
+* 张晓焕（UI设计师）
 
-Email：2916244782@qq.com
+  * Email：2916244782@qq.com
 
-Github：https://github.com/zhangxiaohuan8
+  * Github：https://github.com/zhangxiaohuan8
 
-王丽娜（开发工程师）
+* 王丽娜（开发工程师）
 
-Email：1416978302@qq.com
+  * Email：1416978302@qq.com
 
-Github：https://github.com/wanglinawln
+  * Github：https://github.com/wanglinawln
