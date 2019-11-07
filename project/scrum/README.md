@@ -9,7 +9,7 @@
 项目地址
 -
 
-Github：https://github.com/zhangxiaohuan8/ruanjiangongcheng
+* Github：https://github.com/zhangxiaohuan8/ruanjiangongcheng
 
 项目成员
 -
@@ -37,3 +37,6 @@ Github：https://github.com/zhangxiaohuan8/ruanjiangongcheng
   * Email：1416978302@qq.com
 
   * Github：https://github.com/wanglinawln
+  
+  项目截图
+  -
